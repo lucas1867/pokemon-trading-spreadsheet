@@ -27,4 +27,4 @@ var contactUrl = "http://reddit.com/u/lucas1867";
 // URL of your PGL trainer icon (optional)
 // ***********************************************************************************
 // Download it from the Pokémon Global Link and re-upload to an image-sharing website
-var trainerIconUrl = "https://n-3ds1-pgl-trainericon.pokemon-gl.com/d315dac0-ae8f-11e6-a3fc-06af8a77a80d.png";
+var trainerIconUrl = "https://n-3ds1-pgl-trainericon.pokemon-gl.com/91778ed0-b61c-11e6-afac-0671b16f181d.png";
